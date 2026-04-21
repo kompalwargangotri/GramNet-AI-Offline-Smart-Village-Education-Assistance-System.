@@ -72,6 +72,18 @@ Output is given in user’s language (text/voice)
 Quiz adapts based on user performance
 
 
+## How to Run
+
+1. Install dependencies:
+    pip install -r requirements.txt
+
+2. Run API:
+    uvicorn api.main:app --reload
+
+3. Test in browser:
+    http://127.0.0.1:8000/
+
+
 ## Applications
 Smart AI Tutoring System
 
@@ -105,14 +117,3 @@ Mobile application development
 
 Integration with real-time datasets
 
-
-## How to Run
-
-1. Install dependencies:
-    pip install -r requirements.txt
-
-2. Run API:
-    uvicorn api.main:app --reload
-
-3. Test in browser:
-    http://127.0.0.1:8000/
