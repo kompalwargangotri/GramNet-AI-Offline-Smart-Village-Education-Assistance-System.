@@ -24,60 +24,87 @@ Works in Offline Mode
 
 ## Technologies Used
 Python
+
 TinyLLaMA (LLM)
+
 RAG (Retrieval-Augmented Generation)
+
 NLP (Natural Language Processing)
+
 SpeechRecognition / Whisper (STT)
+
 gTTS / pyttsx3 (TTS)
+
 Vector Database (for semantic search)
 
-🧩 System Architecture
+
+## System Architecture
 User Input (Text/Voice)
+
 Speech-to-Text (if voice input)
+
 Language Detection
+
 Translation to English
+
 Embedding Generation
+
 Vector Database Retrieval (RAG)
+
 Response Generation (TinyLLaMA)
+
 Translation to User Language
+
 Text-to-Speech Output
 
-⚙️ How It Works
+
+## How It Works
 User asks a question via text or voice
+
 System processes and translates input
+
 Relevant data is retrieved using embeddings
+
 AI model generates accurate answers
+
 Output is given in user’s language (text/voice)
+
 Quiz adapts based on user performance
 
-🎯 Applications
+
+## Applications
 Smart AI Tutoring System
+
 Rural Education Platforms
+
 Voice-Based Learning Assistant
+
 School and Self-Learning Support
 
-📊 Results
+
+## Results
 Accurate answers using RAG
+
 Improved learning with adaptive quizzes
+
 Supports multilingual interaction
+
 Works without internet connectivity
 
-🏁 Conclusion
+
+## Conclusion
 
 GramNet AI provides an efficient and intelligent learning solution by combining multilingual support, voice interaction, and adaptive learning. It is especially useful for rural areas where access to quality education and internet is limited.
 
-🔮 Future Scope
+## Future Scope
 Add more regional languages
+
 Improve quiz analytics and tracking
+
 Mobile application development
+
 Integration with real-time datasets
 
-📚 References
-RAG for NLP Tasks
-TinyLLaMA Model
-HuggingFace Transformers
-OpenAI Whisper
-Google Text-to-Speech
 
 ## How to Run
 
