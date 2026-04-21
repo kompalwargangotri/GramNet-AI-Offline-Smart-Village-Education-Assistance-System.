@@ -1,20 +1,28 @@
-🌐 GramNet AI – Offline Smart Village Education System
+## GramNet AI – Offline Smart Village Education System
 
-📌 Overview
+## Overview
 
 GramNet AI is a multilingual offline AI tutor designed to provide personalized and accessible education in rural and low-internet areas. The system supports both text and voice interaction and delivers accurate, context-aware responses using advanced AI techniques.
 
-🚀 Features
-🌍 Multilingual Support (English, Hindi, Marathi)
-🎤 Voice Input (Speech-to-Text)
-🔊 Voice Output (Text-to-Speech)
-🧠 Retrieval-Augmented Generation (RAG)
-🤖 TinyLLaMA-based Response Generation
-📚 NCERT-based Knowledge System
-📝 Adaptive Quiz Engine (Dynamic Difficulty)
-📡 Works in Offline Mode
+## Features
+Multilingual Support (English, Hindi, Marathi)
 
-🛠️ Technologies Used
+Voice Input (Speech-to-Text)
+
+Voice Output (Text-to-Speech)
+
+Retrieval-Augmented Generation (RAG)
+
+TinyLLaMA-based Response Generation
+
+NCERT-based Knowledge System
+
+Adaptive Quiz Engine (Dynamic Difficulty)
+
+Works in Offline Mode
+
+
+## Technologies Used
 Python
 TinyLLaMA (LLM)
 RAG (Retrieval-Augmented Generation)
